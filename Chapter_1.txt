@@ -1,0 +1,38 @@
+Este capitulo es solo de Introduccion a HTML
+
+En este capitulo se pudo observar 5 videos 
+
+1.-	El primer video es una introduccion mas especifica en otras palabras explica la 
+	importancia del HTML como una estructura escencial. Al mismo tiempo hace un enfoque muy 
+	chiquito de lo que es CSS que sirve para el control de la presentacion y aspectos de una pagina	
+	Web y lo que es JS que es el JavaScript que es otro tipo de lenguaje de programacion
+	que permite crear efectos atractivos y dinamicos en las paginas webs
+	
+	Pero gran parte del video es un general de lo que es HTML que es igual a Markup language o 
+	lenguage de marcado que quiere decir que el HTML se utiliza para marca el contenido con el fin 
+	de explicar lo que es el contenido y la forma de relacion con otro contenido de la pagina.
+
+2.-	En el segundo video pude observar un ejercicio que tomo como ejemplo usando textedit y 	
+	al usar diferentes contenido  o descripcion como <p> que es de parrafo or <h1> o </em> que es de 	
+	enfatizar y al usar estos contenidos se podia observar los cambios que se producia en una pafina web.
+
+3.-	Pude observar como una linea de tiempo como su hisorial que la verdad no sabia que html habia 
+	cambiado con el transcurso del tiempo desde el year 1991 cuando un tal Tim Berners publico html Tags
+	y de ahi 1995 al 1997 aparecieron html 2.0 y html 4.0. Y pues nos da entender que debemos enfocarnos
+	en aprender primero los elementos y la sintaxis.
+
+4.-	En esta parte nos ayuda a como buscar informacion de elementos HTML que me ayudarian con el curso 
+	y pues los voy a poner aqui por si los necesite mas adelante
+
+	www.w3.org/TR/htmls
+	www.whatwg.org/specs/web-apps/current-work//multipage
+	www.webplatform.org  (aqui se encuentra mejor documentacion ya que es una web mas desarrollada en general)
+	www.developer.mozilla.org/en-US/docs/Web/HTML/Reference
+
+5.-	En este ultimo video nos muestra la mejor referencia para el curso que es BRACKETS.com y nos muestra
+	que al hace cambios en Brackets podemos ver que en google chrome se hacen cambios de inmediato.
+
+Bueno esto fue lo que entendi del Chapter 1 y de los videos, bueno hay mas cosas que aprendi pero no 
+quiero hacerla larga jejeje.
+
+
