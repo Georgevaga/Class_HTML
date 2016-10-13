@@ -1,0 +1,47 @@
+En este capitulo pude aprender muchas cosas:
+
+1.-	En el primer video me ensena como es el diseno, la estructure de un HTML, que se basa principalmente
+	Doctype HTML que sirve para decir que version de HTML se esta usando, luego con la apertura del <html>
+	que debe cerrarse con </html> dentro de del html podemos encontrar dos partes primcipales el encabezado 
+	<head></head> dentro de ella se encontraran cosas que serviran que el documento trabaje correctamente
+	son elementos invisibles pero que ayudaran a la pagina y el cuerpo <body></body> todas las cosas visibles 
+	como parrafos, titulos entre otros.
+
+2.-	En el segundo video me muestra una pagina web con una lista de varios Doctype recomendados en diferentes
+	versiones de HTML, pero el que se va a usar en este curso el de HTML 5. Por lo tanto la Clase empieza
+	con el tipo de declaracion documentada de HTML5.
+
+	Ejemplo_1 : Colocar que tipo de version de HTML estoy utilizando, en este caso es HTML 5 que viene hacer
+		    el doctype.
+
+3.-	Ejemplo_2 : Empiezo a formar mi encabezado <head> dentro del HTML, pero antes me da una recomendacion 
+		    que no es necesario pero que en este caso sirve para saber en que idioma mi html va a ser
+		    junto con sus anunciados de etiqueta. Continuando con mi encabezado <head> que es donde voy
+		    encontrar muchas etiquitas que se utilizaran para el refuerzamiento de mi pagina web.
+
+		    Como uno de ellos es el uso de <meta> que se utilizara para agregar informacion de la pagina 
+		    que sera utilizada por los buscadores, como incluir charset utf-8 que se va a utilizar si voy
+		    usar caracteres chinos o otros tipos. Y otros como el nombre "name" y contenido "content" que 
+		    lo que pagina web va a ser.
+
+		    Otro etiqueta que se utilizara es el titulo <title> para que se vea mas profesional y se vea 
+	            claramente en el nombre de la pagina web, y se tendra que cerrar con </title>.
+
+4.-	Ejemplo_3 : Creacion de la parte del cuerpo <body> nunca debe estar en <head>.
+		    Con <h1> especifica una forma mas formal del cuerpo osea es utilizado para el encabezado de una
+		    seccion siempre va a ser lo mas importante de toda la pagina.
+		    Luego <p> que es para formar mi primer parrafo y dentro del parrafo puedo hacer uso de <b> que 
+    		    servira para representar el tipo de letra mas gruesa quiero decir en negrita como en microsoft
+		    word que nos da esa opcion.
+
+5.-	En este ultimo video del capitulo dos me muestra diferentes tipos de Modelo de Contenido en donde uno puede 
+	aprender que tipo de contenido uno espera dentro de un elemento y controlar las reglas de elementos.
+
+	Para ello como practica use la misma estructura del instructor para practicar y conocer mas la estructura de HTML
+        
+        Ejemplo_4: Muestra un modelo de un HTML mas desarrollado donde incluye el como introducir un enlace para que se
+		   diriga a otra pagina web.
+
+
+Bueno esto fue lo que entendi del Chapter 2 y de los videos, bueno hay mas cosas que aprendi pero no 
+quiero hacerla larga jejeje.
