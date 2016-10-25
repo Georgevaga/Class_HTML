@@ -1,0 +1,63 @@
+En este capitulo pude aprender lo siguiente:
+
+1.- El primer video 
+    La Etiqueta <pre> respeta los espacios en blanco y muestra el texto tal y como esta escrito y <p> es de parrafo
+    y aunque lo escribas dejando espacion el texto lo mostrara sin ellos como deberia ser un parrafo espesifico.
+
+    <i> hace que el texto se vea en cursiva, pero tan solo es un efecto visual. <em> tendrá el mismo efecto, 
+    pero además indicará al buscador en cuestión que lo que hay dentro de la etiqueta tiene cierta importancia.
+
+    <b> es simplemente eso, un texto en negrita, resaltado visualmente, mientras que <strong>, le da a entender a 
+    los distintos buscadores que la palabra o frase es importante.
+
+    Ejemplo_1: Diferentes elementos de etiqueta que se puede usar en el FORMATO DE TEXTO para obtener un mejor 
+               contenido.
+
+2.- Segundo Video
+    
+    Ejemplo_2: El uso de encabezados que varia de tamanos <h1> <h2> <h3> hasta <h6> que vendria a ser el titulo
+    	       Principal y luego un subtitulo y luegos otros puntos importantes que resaltar para cada contenido
+               en el desarrollo de un parrafo, en otras palabras el uso de la logica in the develop of a body paragraph.
+
+3.- Tercer Video
+
+    Ejemplo_3: El uso de formato de un parrafo. Para definir los parrafos nos sirve el uso de la etiqueta <p>  que 
+	       introduce un salto y deja una linea en blanco antes de continuar con el resto del documento. Es opcional 
+               cerrar con la etiqueta un parrafo pero es recomendable hacerlo para que no haigan ningun problema mas
+      	       adelante.
+
+4.- Ejemplo_4: El uso de los braks <br> que es una etiqueta que produce salto de linea en el texto. Es util cuando por 
+	       ejemplo escribimos un poema o una direccion donde la no dejamos una linea en blanco sino que solo pasamos
+               a la siguiente linea, no necesita cerrar la etiqueta, se usa cuando lo necesitamos.
+
+5.- Ejemplo_5: El uso y la diferencia entre <b> y <strong>. Uno es para marcar una palabra en negrita <b> y el otro es para
+	       enfatizar el texto osea senala algo de suma importancia <strong>. Las otras etiquetas son <i> y <em>. Uno 
+               es para poner la palabra o frase en cursiva <i> mientras que el otro es para resltar el texto convirtiendo en
+               importante para el lector <em>.
+	       Lo que pude notar en este video es el uso de otras etiquetas que en el video los explica pero muy poco, pero 
+	       que pude investigar que son: 
+			La etiqueta <dl> que define una lista entera de definiciones.
+			La etiqueta <dt> que define los items de la 
+			La etiqueta <dd> que se utiliza para describir un item de las listas de definiciones.
+
+6.- Ejemplo_6: Como hacer uso de simbolos y caracteres que no se encuentran en el teclado y que por lo visto hay sin cientos 
+	       y que por eso es recomendable tener una referencia para aprender de ellos en este video usa como: (&lang; para <) 
+	       (&amp; para &) (&copy; que es copyright para ©) y (&trade; que es trademark para ™).
+
+7.- Ejemplo_7: Me sirvio para controlar los epacios en blanco entre oracion y oracion y para no cortar un frase que siempre se 
+     	       debe leer o estar junta y no separada ya sea por el tamano de la hoja. Para ello se hace uso de &nbsp; para cada 
+               espacio en blanco que deseemos.
+
+8.- Ejemplo_8: Como insertar imagenes a un html usando el tag <img y luego el buscador con src= buscar la carpeta / luego la imagen
+               escribir correctamente para que la imagen este ahi y luego la anchura y finalmente  una descripcion para representar la 
+   	       imagen.
+
+9.- Ejemplo_9: En este video son ejercicio que debemos hacer de todo lo que e visto en todo el capitulo 3, en esta parta para realizar 
+   	       el ejercicio e tenido que tipear lo que se apodido del video y de ahi ya en el video numero 10 ya realize solo lo que me 
+               . Obviamente tuve que volver a tipear mas cosas del video 10 para realizar los ejercicios y aprender
+
+10.-Ejemplo_10:La respuesta del ejercio, pero me base en mis respuestas asi que solo resolvi lo que me pedian.
+
+Ya esta hice lo que pude ojala este bien los dos ultimos videos algo complicado ya que no tenia la base del ejercicio para poder resolver
+lo que el ejercicio me pedia, y es po eso que eso que no me quedo otra que tipear muchos textos y de ahi recien modificarlos con lo que me
+pedia el ejercicio. Bueno ya estamos comunicandonos  bye bye manito y sorry no me salio chiquito como querias :)
