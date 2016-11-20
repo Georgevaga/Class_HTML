@@ -1,0 +1,91 @@
+
+
+1.- En el primer video muestra como es la estructura de un HTML para ofrecer un contenido mas claro para que 
+    sea mas facil de leer para los lectores y las maquinas usando diversos. Cuyos elementos pueden ser elementos
+    de seccionamiento como <hi>...<h6>, <nav>, <section>, <article> and <aside> y elementos semanticos como 
+    <header>, <footer> y <main>.
+
+2.- En este video resalta mucho el tipo de esquema que requiere en general para un documento, para poder ver como
+    avanza nuestro documento se puede ver desde el programa Brackets o ingresando al site: gsnedders.htmls.org/outliner/
+    
+	Ejemplo_1: Para resaltar nuestro esquema hacemos uso de encabezados como por ejemplo para el titulo mas
+		   importante usamos <h1> titulo de la pagina <h2>, para resaltar nuestras categorias de un documento
+		   hace uso de <h3> y de subcategorias <h4> y asi sucesivamente.
+  
+		   Muestra el uso de elementos de seccionamiento como <nav> que sirve para crear una nueva seccion que
+		   especifica la navegacion de la site, y el uso de <section> para calificar las secciones relacionadas
+		   al documento creado.
+
+3.- 	Ejemplo_2: En esta parte pude conocer un poco el uso del elemento <nav> que representa una sección de una página que enlaza 
+    		   con otras páginas o parte de la página: una sección con vínculos de navegación en otras palabras son
+		   enlaces que nos sirven para dirigirnos a zonas importantes . Y puedo conocer un poco mas de este 
+    		   elemento ingresando a la pagina w3.org/TR/html5/
+
+4.-	Ejemplo_3: El Elemento article de HTML representa una composición auto-contenida en un documento, 
+		   página, una aplicación o en el sitio, que se destina a distribuir de forma independiente o reutilizable, 
+		   por ejemplo podría ser un mensaje en un foro o un artículo de una revista o un periodico. 
+
+5.-	Ejemplo_4: Se utilizan para encerrar el código correspondiente a una sección genérica dentro de un documento o 
+		   aplicación. Normalmente, un bloque de texto al que perfectamente le podríamos colocar un título o 
+		   encabezado. Además, todo el contenido que engloba ha de guardar cierta relación entre sí. En otras palabras
+		   agrupa varias cosas como las section de un documento asi como en el periodico de Peru El Comercio
+		   que tiene diversas section como deporte, aventura  entre otros y estos a la vez tiene encabezados
+		   y articulos relacionados a la section correspondiente.
+
+6.-	Ejemplo_5: Con este elemento <aside> se puede agrupar todo aquel contenido que no es directamente contenido principal 
+		   del documento o de lo que estemos tratando en nuestra página en concreto. La norma es usarlo para todo aquel 
+		   contenido tangencial que quiere decir que no es importante al contenido principal de la página pero que esta 
+		   relacionado al documento. Como por ejemplo publicidad, eventos entre otros.
+
+7.-	Ejemplo_6: La etiqueta <div> se utiliza para definir una sección dentro del documento. Esta etiqueta se usa comunmente 
+		   para agrupar un bloque de elementos, para luego añadirle un estilo determinado. Encontre esta pagina web que 
+		   me va a servir de apoyo. Chequeala a ver que te parece manito http://www.virtualnauta.com/html-etiqueta-div
+
+8.-	Ejemplo_7: En esta parte vemos lo que son los elementos semanticos:
+		       A) Elemento <header> encargada de indicar a los navegadores que lo que contienen es la cabecera de la 
+			  página y que dentro llevarán lo típico, algún logotipo, el título de la página, quizás una descripción 
+			  de la misma y poco más. La norma define a la cabecera como un grupo de ayudas a la navegación. En 
+		       	  conclucion, el HTML5 nos indica que todo lo que antes teniamos en la cabecera ha de ir ahora entre esas 
+			  dos etiquetas y es todo.
+		       B) Elemento <footer> encierra todo aquel código tipico de las partes inferiores de las páginas web. 
+			  Contendrán por tanto enlaces a otras webs relacionadas, al mapa de la web, a una página de comentarios 
+			  sobre el copyright, una política del portal, quizás algo de publicidad, a lo mejor volver a algun enlace
+			  de arriba de la web, 
+		       C) Elemento <main> representa el contenido principal del cuerpo <body> de un documento o aplicación. 
+			  Incluye el contenido que es único en la página y excluye contenido que se repite en todas las páginas 
+			  de la web (menú, pie de página, barra lateral, etc). No se debe incluirse mas de un elemento por pagina,
+			  y no debe incluirse dentro de elementos como article, aside, footer, header o nav.
+
+9.- 	Ejemplo_8: En esta parte del video habla de lo que es WAI-ARIA que es una manera da hacer que el contenido Web y aplicaciones
+		   Web sean mas accesibles a las personas con discapacidad. Ayuda especialmente con contenidos dinamicos y controles
+		   de la interfaz de usuario avanzada desarrollados con HTML o otras tecnologias relacionadas.
+
+		   El video habla acerca de Roles de referencia.	
+		   
+		   La mision de estos roles es definir el papel que juega los elementos dentro del documento web y aqui e de 
+		   ver algunos
+		   
+				application				Como en el ejemplo usa:
+				banner								<header role="banner">
+				complementary							<nav role="navigation">
+				contentinfo							<main role="main">
+				form								<article role="article">
+				main								<aside role="complementary">
+				navigation 							<footer role="contentinfo">
+				search
+
+			Esta informacion estan las paginas que ofrece el video:
+				* www.w3.org/TR/wai-aria    en el punto 5.3.4
+				* www.w3.org/TR/2014/WD-aria-in-html-20140626    en el punto 2.12
+				* http://goo.gl/ACVTWJ
+
+10.-	Ejemplo_9: Esta ultima parte es la parte donde se realiza ejercicios introcuciendo algunos elementos para formar una 
+		   correcta estructura como los elementos: header, nav, main, article, sections, footer y aside si se requiere 
+		   y a usar los Roles de referencia para que sea mas accesible a todo el mundo. Para ello se usaron los domentos:
+		   Intro, link, next, reference y syntaxis para practicar el ejercicio.
+
+11.-	Este es el video 11 donde solo muestra el resultado del ejercio 
+
+Y bueno esto fue todo lo que he aprendido del capitulo 4 ahora ya entiendo como es que se debe emplear una correcta extructu en html
+usando Brackets y he aprendido el uso de los Roles para hacerla mas accesibles. waow que capitulo pero ya terminado jeje ahora voy
+por los dos ultimos ejjeje saludos manito.
