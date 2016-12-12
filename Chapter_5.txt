@@ -1,0 +1,135 @@
+1.- En esta parte del video muestra lo siguiente:
+	
+	a.- La etiqueta de inicio para definir enlaces es <a> y la de cierre </a>. La palabra que encerremos entre esas dos 
+	    etiquetas será la que el visitante pueda pinchar para acceder a la página de enlazada.  Por lo tanto, si la palabra 
+	    fuera "lynda.com" la línea quedaría de la siguiente manera: <a>lynda.com</a> cosa que no pasaria nada.
+	b.- Por ello de alguna manera se debe indicar a que pagina se quiere enviar al visitante al hacer click, por tanto se
+	    le indicara una "ruta" por lo tanto se haria uso de lo siguiente: <a hred="ruta">lynda.com</a>. En donde es "ruta" 
+	    hemos de poner la direccion completa a donde queremos mandar al visitante de la siguiente manera:
+
+				<a hred="http://www.lynda.com">lynda.com</a>
+	
+	c.- Otro atributo que se usa para los links es el atributo target="_blank" que nos indicara que al hacer click en lynda.com
+	    se abrira en otra ventana distinta y no en la misma. Existen otros atributos que target= usa como son:
+
+		_parent : Que permite abrir el documento en el mismo marco que mantuvo el enlace en el principio.
+		_self   : Que permite abrir el documento dentro del marco principal.
+		_top 	: Que permite abrir el documento en la ventana principal superior.
+		framename: Abre el documento en el Marco con nombre.
+	     
+	    Para ello e implementa unos ejemplos usando braques: 
+
+		Observar Ejemplo_1: Donde muestro el uso de todos los atributos con target, para hacer la demostracion e echo uso 
+				    de el elemento <iframe> representa un contexto de navegación anidado, lo que es básicamente 
+				    un documento anidado en el documento actual. La dirección desde la cual el navegador debería 
+				    recuperar el documento incrustado puede ser provista en el atributo src que sirve para buscar
+			            la carpeta. En cada carpeta de target chequear los File1 de cada carpeta y dar click para que 
+				    veas la imagen como se ve en diferentes situaciones.
+	d.- Luego mensiona el atributo rel=. Este atributo especifica la relacion entre el documento actual y el vinculado.
+
+		Algunos de ellos son :
+	
+		* rel="help" Significaría que el documento vinculado especificado por el atributo href es un documento de ayuda 
+			     para el documento actual.
+		* rel="license" Indica que el documento vinculado es un documento que contiene información de copyright para 
+			     el documento actual.
+		* rel="next" Indica que el documento vinculado es el siguiente documento para el documento actual en una serie 
+			     de documentos.
+		* rel="prev" Indica que el documento vinculado es el documento anterior de una serie de documentos.
+
+	e.- Finalmente esta el atributo title que representa información de asesoramiento para el elemento, tal como sería 
+	    apropiado para una información de herramientas. 
+		En un enlace, este podría ser el título o una descripción del recurso de destino.
+	        En una imagen, podría ser el crédito de imagen o una descripción de la imagen.
+ 		En un párrafo, podría ser una nota de pie de página o un comentario sobre el texto.
+	        En una cita, podría ser más información sobre la fuente. 
+		En contenido interactivo, podría ser una etiqueta o instrucciones para el uso del elemento entre otros. 
+           El valor es texto y ayudaria a que sea mas interanste en hacer mas busquedas del documento como haciendo un seguimiento.
+
+2.- Ejemplo_2: En esta parte del video he podido practicar y conocer como enlazar diversas paginas dando click en diferentes 
+	       asuntos importantes del documento que queremos conocer mas detallado. Para ello hace uso del siguiente atributo que
+	       es <a> y que al agregar <a href=""> ayudara al visitante a ubicar el documento o recurso vinculado. Y por ultimo 
+	       el uso de title="" para hacer una pequena descripcion sobre el linck al que se va a dar click para enlazar a otra 
+	       web site y de esa manera el visitante al entrar a diversas paginas, la ultima pagina lo podra enviar a la pagina
+	       de inicio ya que todo estara enlacezado como ramas.
+
+3.- Ejemplo_3: Aqui me ensena a como mis links creados en mi documento para enviar al visitante a otras paginas webs relacionadas 
+	       con el tema preicipal, pueden abrirse desde la misma pestana y abrirlos en otra nueva pestana. Para ello usa el 
+	       atributo <a> y en su interior href="Aqui va ir la pagina a donde queremos enviar al espectador. Luego el uso de 
+	       Title="para hacer una descripcion" y asi se podra abrir el link en la misma pestana. Y al agrergar target="_blank"
+	       podremos abrir link en una nueva pestana.
+
+4.- Ejemplo_4: Nos explica como bajar un documento desde nuestro link creado en nuestra site. Hce uso del atributo <a> y dento 
+	       href="" y title="". 
+
+	* En la primera parte baja un documento en donde el navegador sabe que es en winran y no podra abrirse en el navegador 
+	  por lo tanto lo baja instantaneamente a tu ordenador.
+	* En la segunda parte el navegador si podra abrirlo en el mismo navegador porque es un documento que no esta comprimido 
+	  y es facil de acceder.
+	* En la tercera parte usa el atributo download por si queremos que el navegador baje directamente el documento 
+	  directamente a nuestro ordenador y que ya no aparezca en el navegador.
+	* En esta ultima parte podremos remplazar el verdadero nombre del archivo al cual vamos a bajar por otro nombre diferente
+	  mas original pero relacionado al documento el cual hace uso del atributo download pero agrega entre comillas ="" el nombre
+	  al que queremos ponerle.
+
+
+5.- Ejemplo_5: En esta parte e podido aprender como vincular nuestros enlaces creados en una pagina con los respectivos textos 
+	       creados para cada vinculo en este caso nos muestra el ejemplo se Sectiones 1, 2 y 3 y que al hacer un click en 
+	       cada uno de ellos nos llevara directo con las sectiones que se esncuntran detalladas en la misma pagina pero mas 
+    	       abajo. Luego nos muestra como saltar de una section a una nueva pagina web que nosotros creamos mostrando mas 
+	       informacion de la section en este caso pone de ejemplo la web creada llamada "destination.html". Y por ultimo como 
+	       hacer que mi enlace "fragmento" creado en mi pagina se vaya directamente a una pagina web del navegador ya creada y
+	       que contenga mas informacion de "fragmento". Para enlazar nuestos vinculos con otros usa lo siguiente:
+
+		<p><a href="#enlaces" title="Del enlace">Numero de enlaces</a></p> 
+		<p><a href="#one" title="section one">Link to Section 1</a><p>
+	
+		<p><a href="Web creada por nosotros#enlace" title="De la web">Enlace al que queremos marcar</a> del nombrede la web creada</p>
+		<p>Link to <a href="destination.html#two" title="destination">Section 2</a> of the destination.html page</p>
+
+		<a href="Web del Navegador" title="Nombre de la web">Titulo de la web</a> Definido por la web</p> 
+		<p><a href="http://www.w3.org/TR/html5/browsers.html#scroll-to-fragid" title="W3C Fragment identifiers">Fragment identifiers</a> as defined by the W3C</p>
+
+6.- Ejemplo 6:
+
+	Ejercicios:
+
+	A) En la primera parte del ejercicio debo enlazar la lista que se encuentra en la parte de arriba, debo vincularlos con las 
+	   paginas apropiadas en el mismo sitio de referencia, y asegurandome de que tenga una descripcion que es title. Debo hacerlo 
+	   en todas las paginas. Pero aqui muesto en la de Intro.htm. Debo hacer lo siguiente:
+ 		<li><a href="intro.htm" title="Introduction to HTML">Introduction to HTML</a></li>
+     	        <li><a href="syntax.htm" title="HTML syntax">HTML syntax</a></li>
+      		<li><a href="structure.htm" title="Structuring pages">Structuring pages</a></li>
+    	  	<li><a href="links.htm" title="Creating links">Creating links</a></li>
+     		<li><a href="reference.htm" title="HTML Reference">HTML reference</a></li>
+      		<li><a href="next.htm" title="Next steps">Next steps</a></li>
+
+	B) En esta parte me pide lo siguiente:
+		* Crear un link para lynda.com y hago lo siguente:
+			<a href="http://www.lynda.com">lynda.com</a>
+		* Modificar este mismo link para que pueda abrirse en una neva ventana y para ello uso target="" y hago lo siguiente:
+			<a href="http://www.lynda.com" title="lynda.com" target="_blank">lynda.com</a>
+		* Recordar agregar la descripcion para el link usando title=""y hago lo siguiente:
+			<a href="http://www.lynda.com" title="lynda.com" target="_blank">lynda.com</a>
+		* Buscar el perfil de @lynda en Twitter y copiar el URL.
+		* Agregar un link para que nos expectadores nos puedan seguir en Twitter desde su perfil para ello hago lo siguiente:
+			<a href="https://twitter.com/lynda" title="Follow lynda in Twitter">@lynda</a>
+	
+	C) En esta parte usamos reference.htm y syntax.htm. 
+		* En reference.htm debo buscar el texto del primer parrafo en donde creare un link alrededor del texto (named character
+		  entities) para que al hacer click me salte y se vaya directamente a la tabla que esta ubicada en la parte de abajo.
+		  Para ello hago lo siguiente:
+			<header>
+      				<p>On this page you&rsquo;ll find a quick reference to common HTML terms and a table of frequently 
+				used <a href="#named">named character entities</a>.</p>
+    			</header>		* En syntax.htm hacemos lo mismo pero esn este caso me voy hasta la parte de abajo de la pagina y localizo el texto ((HTML
+   		
+		* En syntax.htm hago lo mismo pero me ubico hasta la parte de abojo de la pagina y creo un link alrededorde texto 
+		  (HTML Reference) para que al hacer click me salte directamente a la tabla para ello hago lo siguiente:
+			
+			<p>Certain characters are reserved in HTML,......character entities on the 
+			   <a href="reference.htm#named">HTML Reference</a> page, and a more comprehensive 
+			   list on Wikipedia</a>.</p>
+ 
+ 			
+Y eso seria todo de este CAPITULO se que es esta algo grande pero es la unica manera de que yo estoy entendiendo.:)
