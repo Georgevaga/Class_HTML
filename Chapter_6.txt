@@ -1,0 +1,89 @@
+1.- En esta parte del video me ensena a como Crear listas en el correcto orden estabecido en una pagina web. Para ello hace uso 
+    de la etiqueta <ul>. Las listas no ordenadas van dentro de la etiqueta <ul> y de su cierre </ul>. 
+
+	Y para crear otros objetos individuales dentro de la lista recreadas con <ul> hacemos uso del la qtiqueta <li> con su respectivo 
+	cierre </li> por cada objeto individual que queremos agregar dentro de una lista ya creados por <ul> de esa manera podremos
+	mantener un orden mas claro.
+
+    Mirar el Ejemplo_1. 
+		
+2.- Video dos listas ordenadas. Estas listas van enmarcadas dentro de las eiquetas <o> </ol> y de esta manera mi lista se vera 
+    enumericamente ordenada desde el #1 hasta el # que estaremos creando en nuestra lista.
+    
+    Al mismo tiempo podremos agregar dentro de nuestra etiqueta <ol start="#"> para que nuestra lista podamos hacer que el primer punto
+    comience con el numero que nosotros queramos y continuo con los numeros que le sigue: por ejemplo si ponemos start="9" entonces
+    nuestra lista sera 9, 10, 11 y asi sucesivamente.
+    
+    Y al agregarle dentro de la etquita siguiente a start="#" , en este caso agregaremos resersed podremos indicarle que nuestra lista
+    ordenada sea enumericamente de mayor a menor por ejemplo:
+		<ol start="9" reserved>  nuetsra lista saldra de la siguiente manera: 9, 8, 7 y asi sucesivamente.
+
+    De la misma manera en las listas creadas dentro de otras listas podemos ordenarlas agregando la misma etiqueta <ol>, y si queremos 
+    ordenadas ya sea por numeros romanos, alfabeticamente o simplemente numeros, solo debemos agregar type="". Ejemplo
+		<ol type="i"> or <ol type="A"> or <ol type="1">
+                 (i, ii, iii)      (A, B ,C)        (1, 2, 3)
+    Mirar Ejemplo_2.
+
+3.-En este parte del video me esnsena a realizar lista de deficiniciones usando las etiquetas: <dl>, <dt> y <dd>
+
+	I)   La etiqueta <dl> nos indica que dentro de ella, entre ella y su cierre va a ir una definicion.
+	II)  En la etiqueta <dt>, ira dentro de ella el termino que vamos a definir en otras palabras iria el titulo de la definicion.
+	III) La etiqueta <dd> nos indicara que dentro de esta ira la definicion.
+
+   Si escribimos varios listados de definicion, estas se separaran automaticamente entre ellas para facilitar su diferenciacion.
+
+   Mirar el Ejemplo_3.
+
+4.- En esta primera parte del ejercicio actualmente las listas se encuentra encerrada por la etiqueta de parrafo, y la idea es ordenar las 
+    listas correctamente para ello hacemos uso de las etiquetas <ul> y <li> y usamos intro.html
+
+    <ul>
+      <li><a href="intro.htm" title="Introduction to HTML">Introduction to HTML</a></li>
+      <li><a href="syntax.htm" title="HTML syntax">HTML syntax</a></li>
+      <li><a href="structure.htm" title="Structuring pages">Structuring pages</a></li>
+      <li><a href="links.htm" title="Creating links">Creating links</a></li>
+      <li><a href="reference.htm" title="HTML Reference">HTML reference</a></li>
+      <li><a href="next.htm" title="Next steps">Next steps</a></li>
+    </ul>
+
+    En esta segunda parte del ejercicio nos pide ordenar la lista en intro.html la parte de "HTML timeline", para ello usamos la etiqueta
+    <ol> y <li>.
+
+    <ol>
+        <li><b>1991</b>: Tim Berners-Lee publishes &ldquo;HTML Tags&rdquo; which describes the initial 18 elements of HTML</li>
+        <li><b>1992</b>: NCSA develops the Mosaic browser, which will eventually evolve into Netscape</li>
+        <li><b>1994</b>: The Internet Engineering Task Force (IETF) creates an HTML working group to develop HTML specifications. Later that year the W3C was created to foster an open standards environment</li>
+        <li><b>1995</b>: HTML 2.0 specification is published</li>
+        <li><b>1995</b>: Microsoft releases Internet Explorer to compete with Netscape</li>
+        <li><b>1997</b>: HTML 3.2 specification is published</li>
+        <li><b>1997</b>: HTML 4.0 specification is published</li>
+        <li><b>2000</b>: XHTML 1.0 is published as a W3C recommendation</li>
+        <li><b>2004</b>: The WHATWG forms to continue work on HTML</li>
+        <li><b>2006</b>: W3C announces it will work with the WHATWG on HTML5</li>
+        <li><b>2009</b>: XHTML Working Group charter expires</li>
+        <li><b>2012</b>: W3C and WHATWG announce they will develop the HTML5 standard separately</li>
+      </ol>
+
+     En la tercera parte del ejercicio hacemos uso de syntaxis.com y nos ubicamos en la section "doctypes"
+     debemos examinar los tres tipos de documentos y sus ejemplos y ver si tienen una buena presentacion o
+     no. En este caso si la tiene una buena presentacion ya que todo estan relacionados uno con el otro y 
+     no es necesario ordenarlos por listado.
+
+     En la cuarta parte usamos reference.htm y nos ubicamos en la section "HTML terms", ahi debemos examinar
+     los terminos y sus descripciones, y como no estan semanticamente agrupados debo oaraganizar los links
+     apropiadamente haciendo uso de las siguientes etiquetas <dl> donde va a encerrar lo que es la 
+     deficion general de "HTML terms", luego de la etiqueta <dt> para encerrar los subtitulos de la 
+     definicion general y por ultimo la etiqueta <dd> que nos indicaria el contenido de cada uno de los 
+     subtitulos de la efinidion general de "HTML terms".
+
+	Mirar el Ejemplo_4
+
+5.- Es el video de la solucion del ejercicio
+
+Eso seria todo del ultimo capitulo 6 , sorry por la demora manito pero e estado un poco atareado por aqui 
+con algunos asuntos y no e podido terminar a tiempo pero bueno ya lo termine , como siempre algo largito
+pero espero lo entiendas y me entiedas que e vista de esta manera la manera mas facil para mi de poder
+entender estos nuevos conocimientos .
+
+Gracias manito me avisas cualquier cosita CHAUUUU ABRAZOS Y SALUDOS A ANITA .... :) :)
+     
