@@ -130,6 +130,7 @@
 			<p>Certain characters are reserved in HTML,......character entities on the 
 			   <a href="reference.htm#named">HTML Reference</a> page, and a more comprehensive 
 			   list on Wikipedia</a>.</p>
- 
+
+ 7.- En este video muestra el resultado del ejercicio.
  			
 Y eso seria todo de este CAPITULO se que es esta algo grande pero es la unica manera de que yo estoy entendiendo.:)
